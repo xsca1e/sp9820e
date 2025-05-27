@@ -15,7 +15,8 @@ patches from your side:
   compressed by specification. The string "About phone" has been changed to
   "About PATCH" to validate the effect.
 
-  If it does not crash the system, it could be a potential solution since you
+  If it does not crash the system, at least it means *the system does not
+  actually verify the signature*. It could be a potential solution since you
   only want to add translations to the resources file, and I can make a tool for
   you to automate on that.
 
